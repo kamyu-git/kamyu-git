@@ -17,3 +17,5 @@
 ##  学んでいる言語
 
 ・JavaScript
+・Java
+・PHP
