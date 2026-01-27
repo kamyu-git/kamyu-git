@@ -16,6 +16,6 @@
 
 ##  学んでいる言語
 
-・JavaScript
-・Java
-・PHP
+・JavaScript<br>
+・Java<br>
+・PHP<br>
